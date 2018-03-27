@@ -19,7 +19,7 @@
         }
     },
     "require": {
-        "akeneo/pim-community-dev": "1.6.x"
+        "akeneo/pim-community-dev": "1.6.x-dev@dev"
     },
     "require-dev": {
         "doctrine/migrations": "1.2.2",
@@ -58,7 +58,7 @@
     "config": {
         "bin-dir": "bin"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "extra": {
         "symfony-app-dir": "app",
         "symfony-web-dir": "web",
